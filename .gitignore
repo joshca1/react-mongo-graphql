@@ -1,6 +1,6 @@
 # dependencies
 node_modules
-
+nodemon.json
 # logs
 npm-debug.log
 yarn-error.log
