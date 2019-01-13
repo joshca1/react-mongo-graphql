@@ -1,22 +1,3 @@
 # dependencies
 node_modules
-nodemon.json
-# logs
-npm-debug.log
-yarn-error.log
-
-# Nuxt build
-.nuxt
-
-# Nuxt generate
-dist
-
-build
-
-# environment
-.env
-
-# images
-server/uploads
-firecast/*
-.vscode
+.nodemon.json
